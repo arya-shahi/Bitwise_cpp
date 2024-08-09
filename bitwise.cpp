@@ -21,3 +21,14 @@ int main() {
 
     return 0;
 }
+/*OUTPUT
+Bitwise Operations on two numbers
+Enter the number 1:1
+Enter the number 2:0
+AND:0
+OR:1
+NOT:-2
+XOR:1
+Left Shift:2
+Right Shift:0
+    */
