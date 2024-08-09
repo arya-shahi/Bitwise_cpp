@@ -1,3 +1,6 @@
+//ARYA SHAHI
+//23070123030 
+//AIM - PERFORM SET AND RESET
 #include <iostream>
 using namespace std;
 
@@ -18,3 +21,10 @@ int main() {
 
     return 0;
 }
+
+/*OUTPUT
+Enter the number: 5
+Enter the bit position to shift: 1
+Bit reset result: 5
+Bit set result: 7
+    */
